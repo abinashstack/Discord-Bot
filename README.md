@@ -1,8 +1,17 @@
-# What Is This??
+### What Is This??
 
 * It is a web app made using nodejs and mongo-db
 
 
-# MAKING A DICORD BOT
+### Tools and Languages Used
 
-#ABINASH GOGOI#
+* Visual studio code
+* javascript
+* Mongo-db
+* Nodejs
+* Discord.js package of npm
+* Similar bots can be made using python also using the Discord.js pypi package
+
+
+###
+
