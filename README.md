@@ -1,6 +1,6 @@
 ### What Is This ?
 
-* It is a web app made using nodejs and mongoDB
+* It is a web app made with the aid of nodejs and mongoDB
 
 
 ### Tools and Languages Used
